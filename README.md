@@ -1,8 +1,13 @@
 # 👋 Hola, soy Joaquín Pedeuboy
 
 🚀 Full Stack Developer | Laravel, React & TypeScript  
+🚀 Desarrollador enfocado en construir aplicaciones reales con Laravel y React
 📍 Argentina
 
+📧 pedev.joaquin@outlook.com  
+💼 LinkedIn: https://www.linkedin.com/in/joaquin-pedeuboy-180699244
+🌐 Portfolio: En desarrollo  
+🐙 GitHub: https://github.com/joaquinPedeuboy  
 ---
 
 ## 🧑‍💻 Sobre mí
@@ -48,6 +53,7 @@ Sistema completo de ventas y gestión de stock.
 - Sistema avanzado de stock con múltiples fechas de vencimiento
 - Implementación de lógica de ofertas independiente del stock principal
 - Control de ventas en tiempo real con actualización de inventario
+- Arquitectura cliente-servidor con separación frontend/backend
 
 👉 Frontend: https://github.com/joaquinPedeuboy/PosMariamFront  
 👉 Backend: https://github.com/joaquinPedeuboy/PosMariam
@@ -72,12 +78,6 @@ Desarrollo de sitio web institucional responsive.
 - Mejorando habilidades en frontend (UI/UX)
 - Aprendiendo mejores prácticas de rendimiento web
 - Abierto a oportunidades como desarrollador web junior
-
----
-
-## 🌎 Contacto
-
-📧 pedev.joaquin@outlook.com  
 
 ---
 
