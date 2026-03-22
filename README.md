@@ -1,13 +1,14 @@
 # 👋 Hola, soy Joaquín Pedeuboy
 
 🚀 Full Stack Developer | Laravel, React & TypeScript  
-🚀 Desarrollador enfocado en construir aplicaciones reales con Laravel y React
+🚀 Desarrollador enfocado en construir aplicaciones reales con Laravel y React  
 📍 Argentina
 
-📧 pedev.joaquin@outlook.com  
-💼 LinkedIn: https://www.linkedin.com/in/joaquin-pedeuboy-180699244
+📧 correo: pedev.joaquin@outlook.com  
+💼 LinkedIn: https://www.linkedin.com/in/joaquin-pedeuboy-180699244  
 🌐 Portfolio: En desarrollo  
 🐙 GitHub: https://github.com/joaquinPedeuboy  
+
 ---
 
 ## 🧑‍💻 Sobre mí
