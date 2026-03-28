@@ -9,21 +9,6 @@
 🌐 Portfolio: En desarrollo  
 🐙 GitHub: https://github.com/joaquinPedeuboy  
 
----
-
-## 🧑‍💻 Sobre mí
-
-Soy desarrollador enfocado en la creación de aplicaciones web modernas y funcionales.  
-Actualmente estoy desarrollando un sistema POS completo, trabajando tanto en backend como en frontend.
-
-Me interesa seguir creciendo profesionalmente, especialmente en desarrollo web, UI/UX y construcción de productos reales.
-
-También tengo interés en mejorar la experiencia de usuario (UI/UX) y crear interfaces atractivas y funcionales.
-
----
-
-## 🛠 Tecnologías
-
 ###
 
 <div align="center">
@@ -69,6 +54,21 @@ También tengo interés en mejorar la experiencia de usuario (UI/UX) y crear int
 </div>
 
 ###
+
+---
+
+## 🧑‍💻 Sobre mí
+
+Soy desarrollador enfocado en la creación de aplicaciones web modernas y funcionales.  
+Actualmente estoy desarrollando un sistema POS completo, trabajando tanto en backend como en frontend.
+
+Me interesa seguir creciendo profesionalmente, especialmente en desarrollo web, UI/UX y construcción de productos reales.
+
+También tengo interés en mejorar la experiencia de usuario (UI/UX) y crear interfaces atractivas y funcionales.
+
+---
+
+## 🛠 Tecnologías
 
 ### 🚀 Frontend
 - HTML
@@ -135,6 +135,23 @@ Desarrollo de sitio web institucional responsive.
 
 ## 📊 Estadísticas
 
+## 📊 Estadísticas
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=joaquinPedeuboy&show_icons=true&theme=radical" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinPedeuboy&layout=compact&theme=radical" height="150" />
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=joaquinPedeuboy&theme=radical" height="150" />
+
+</div>
 
 ## 🧰 Tecnologías destacadas
 
@@ -145,14 +162,3 @@ Desarrollo de sitio web institucional responsive.
 ## 🔥 Actividad
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaquinpedeuboy&theme=youtube-dark&hide_border=true&locale=es&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaquinpedeuboy/joaquinpedeuboy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaquinpedeuboy/joaquinpedeuboy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaquinpedeuboy/joaquinpedeuboy/output/pacman-contribution-graph.svg">
-</picture>
-
-###
