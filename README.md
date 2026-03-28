@@ -135,21 +135,11 @@ Desarrollo de sitio web institucional responsive.
 
 ## 📊 Estadísticas
 
-## 📊 Estadísticas
-
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=joaquinPedeuboy&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaquinpedeuboy&show_icons=true&theme=radical" height="150" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinPedeuboy&layout=compact&theme=radical" height="150" />
-
-</div>
-
----
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=joaquinPedeuboy&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinpedeuboy&layout=compact&theme=radical" height="150" />
 
 </div>
 
@@ -162,3 +152,5 @@ Desarrollo de sitio web institucional responsive.
 ## 🔥 Actividad
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joaquinpedeuboy&theme=youtube-dark&hide_border=true&locale=es&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=joaquinPedeuboy&color=blue)
