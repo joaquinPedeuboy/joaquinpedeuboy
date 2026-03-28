@@ -4,10 +4,17 @@
 🚀 Desarrollador enfocado en construir aplicaciones reales con Laravel y React  
 📍 Argentina
 
-📧 correo: pedev.joaquin@outlook.com  
-💼 LinkedIn: https://www.linkedin.com/in/joaquin-pedeuboy-180699244  
+📧 correo: pedev.joaquin@outlook.com
 🌐 Portfolio: En desarrollo  
 🐙 GitHub: https://github.com/joaquinPedeuboy  
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/joaquin-pedeuboy-180699244" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
