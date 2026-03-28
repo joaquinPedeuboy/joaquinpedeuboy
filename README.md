@@ -4,7 +4,7 @@
 🚀 Desarrollador enfocado en construir aplicaciones reales con Laravel y React  
 📍 Argentina
 
-📧 correo: pedev.joaquin@outlook.com
+📧 correo: pedev.joaquin@outlook.com  
 🌐 Portfolio: En desarrollo  
 🐙 GitHub: https://github.com/joaquinPedeuboy  
 
